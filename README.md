@@ -1,5 +1,6 @@
 <img src="/images/icon.png" width="50" height="50" />
-![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master) 
+![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)
+
 # Embedded font
 Embedded font in globals
 Customize Font in Local resource by embedded
