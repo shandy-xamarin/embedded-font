@@ -16,7 +16,7 @@ Customize Font in Local resource by embedded
 Resource App.xaml
 ```
 <Style TargetType="Label">
-<Setter Property="FontFamily" Value="UTM Avo"></Setter>
+    <Setter Property="FontFamily" Value="UTM Avo"></Setter>
 </Style>
 ```
 # References:
