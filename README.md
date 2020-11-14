@@ -1,14 +1,13 @@
-# embedded-font
+# Embedded font
 Embedded font in globals
 Customize Font in Local resource by embedded
 
-[![shandy](/images/icon.png)]
-
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)]
+![shandy](/images/icon.png | width=40)
+![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)
 
 # Add the font file (otf or ttf) to your shared project and mark it as embedded resource
 
-[![embedded-source](images/embeddedsource.png)]
+![embedded-source](images/embeddedsource.png)
 
 # Add Font to Assembly project  (AssemblyInfo.cs):
 ```
