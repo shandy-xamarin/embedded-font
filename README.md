@@ -2,11 +2,14 @@
 Embedded font in globals
 Customize Font in Local resource by embedded
 
-[![shandy](https://drive.google.com/file/d/1PRNu7MkcWOdK1r5enShVm-9e2fWXbBRH/view?usp=sharing)](https://nodesource.com/products/nsolid)
+[![shandy](/images/icon.png)]
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)]
 
 # Add the font file (otf or ttf) to your shared project and mark it as embedded resource
+
+[![embedded-source](images/embeddedsource.png)]
+
 # Add Font to Assembly project  (AssemblyInfo.cs):
 ```
 [assembly: ExportFont("UTM Avo.ttf", Alias = "UTM Avo")]
