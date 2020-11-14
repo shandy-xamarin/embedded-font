@@ -2,7 +2,7 @@
 Embedded font in globals
 Customize Font in Local resource by embedded
 
-![shandy](/images/icon.png | width=40)
+![shandy](/images/icon.png =40x40)
 ![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)
 
 # Add the font file (otf or ttf) to your shared project and mark it as embedded resource
