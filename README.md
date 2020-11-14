@@ -1,9 +1,7 @@
+![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master) <img src="/images/icon.png" width="50" height="50" />
 # Embedded font
 Embedded font in globals
 Customize Font in Local resource by embedded
-
-<img src="/images/icon.png" data-canonical-src="/images/icon.png" width="40" height="40" />
-![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)
 
 # Add the font file (otf or ttf) to your shared project and mark it as embedded resource
 
